@@ -1,0 +1,131 @@
+Pot_ID,Transgenic_Line,Replication,Root_Num_Col,Individual_Weight
+0,QQS-3,1.0,Individule Root Weight (g),220.11
+1,QQS-5,1.0,Individule Root Weight (g),251.9
+2,QQS-7,1.0,Individule Root Weight (g),409.9
+3,QQS-10,1.0,Individule Root Weight (g),123.99
+4,QQS-10,1.0,Individule Root Weight (g),136.05
+5,EV,1.0,Individule Root Weight (g),115.19
+6,WT,1.0,Individule Root Weight (g),278.33
+9,QQS-3,2.0,Individule Root Weight (g),286.75
+10,QQS-5,2.0,Individule Root Weight (g),179.17
+11,QQS-7,2.0,Individule Root Weight (g),230.3
+12,QQS-10,2.0,Individule Root Weight (g),64.14
+13,QQS-10,2.0,Individule Root Weight (g),208.62
+15,WT,2.0,Individule Root Weight (g),205.13
+18,QQS-3,3.0,Individule Root Weight (g),331.2
+19,QQS-5,3.0,Individule Root Weight (g),138.21
+20,QQS-7,3.0,Individule Root Weight (g),367.74
+21,QQS-10,3.0,Individule Root Weight (g),145.06
+23,WT,3.0,Individule Root Weight (g),164.3
+0,QQS-3,1.0,Unnamed: 2,36.85
+1,QQS-5,1.0,Unnamed: 2,190.61
+2,QQS-7,1.0,Unnamed: 2,200.67
+3,QQS-10,1.0,Unnamed: 2,60.59
+4,QQS-10,1.0,Unnamed: 2,153.16
+5,EV,1.0,Unnamed: 2,138.11
+6,WT,1.0,Unnamed: 2,242.85
+9,QQS-3,2.0,Unnamed: 2,202.63
+10,QQS-5,2.0,Unnamed: 2,183.07
+11,QQS-7,2.0,Unnamed: 2,244.87
+12,QQS-10,2.0,Unnamed: 2,73.43
+13,QQS-10,2.0,Unnamed: 2,152.37
+15,WT,2.0,Unnamed: 2,217.78
+18,QQS-3,3.0,Unnamed: 2,281.57
+19,QQS-5,3.0,Unnamed: 2,99.19
+20,QQS-7,3.0,Unnamed: 2,85.55
+21,QQS-10,3.0,Unnamed: 2,120.4
+23,WT,3.0,Unnamed: 2,141.76
+0,QQS-3,1.0,Unnamed: 3,33.36
+2,QQS-7,1.0,Unnamed: 3,94.16
+3,QQS-10,1.0,Unnamed: 3,72.92
+4,QQS-10,1.0,Unnamed: 3,61.58
+5,EV,1.0,Unnamed: 3,58.22
+6,WT,1.0,Unnamed: 3,52.88
+9,QQS-3,2.0,Unnamed: 3,156.96
+10,QQS-5,2.0,Unnamed: 3,161.86
+11,QQS-7,2.0,Unnamed: 3,70.53
+12,QQS-10,2.0,Unnamed: 3,88.32
+13,QQS-10,2.0,Unnamed: 3,97.42
+15,WT,2.0,Unnamed: 3,192.5
+18,QQS-3,3.0,Unnamed: 3,78.07
+19,QQS-5,3.0,Unnamed: 3,77.16
+20,QQS-7,3.0,Unnamed: 3,59.18
+21,QQS-10,3.0,Unnamed: 3,149.49
+23,WT,3.0,Unnamed: 3,66.52
+0,QQS-3,1.0,Unnamed: 4,17.24
+2,QQS-7,1.0,Unnamed: 4,49.84
+3,QQS-10,1.0,Unnamed: 4,44.08
+4,QQS-10,1.0,Unnamed: 4,53.65
+5,EV,1.0,Unnamed: 4,40.04
+6,WT,1.0,Unnamed: 4,88.1
+9,QQS-3,2.0,Unnamed: 4,58.26
+10,QQS-5,2.0,Unnamed: 4,175.8
+11,QQS-7,2.0,Unnamed: 4,49.9
+12,QQS-10,2.0,Unnamed: 4,73.1
+13,QQS-10,2.0,Unnamed: 4,112.67
+15,WT,2.0,Unnamed: 4,258.57
+18,QQS-3,3.0,Unnamed: 4,25.38
+19,QQS-5,3.0,Unnamed: 4,25.39
+20,QQS-7,3.0,Unnamed: 4,19.17
+21,QQS-10,3.0,Unnamed: 4,87.83
+23,WT,3.0,Unnamed: 4,53.17
+0,QQS-3,1.0,Unnamed: 5,20.74
+3,QQS-10,1.0,Unnamed: 5,36.27
+4,QQS-10,1.0,Unnamed: 5,48.4
+5,EV,1.0,Unnamed: 5,25.44
+6,WT,1.0,Unnamed: 5,28.04
+9,QQS-3,2.0,Unnamed: 5,76.8
+10,QQS-5,2.0,Unnamed: 5,94.37
+11,QQS-7,2.0,Unnamed: 5,44.64
+12,QQS-10,2.0,Unnamed: 5,111.5
+13,QQS-10,2.0,Unnamed: 5,133.29
+19,QQS-5,3.0,Unnamed: 5,23.76
+20,QQS-7,3.0,Unnamed: 5,10.8
+21,QQS-10,3.0,Unnamed: 5,81.45
+23,WT,3.0,Unnamed: 5,26.13
+0,QQS-3,1.0,Unnamed: 6,10.69
+3,QQS-10,1.0,Unnamed: 6,33.03
+4,QQS-10,1.0,Unnamed: 6,62.08
+5,EV,1.0,Unnamed: 6,16.91
+6,WT,1.0,Unnamed: 6,7.37
+9,QQS-3,2.0,Unnamed: 6,17.17
+10,QQS-5,2.0,Unnamed: 6,47.96
+11,QQS-7,2.0,Unnamed: 6,84.95
+12,QQS-10,2.0,Unnamed: 6,154.66
+13,QQS-10,2.0,Unnamed: 6,76.45
+19,QQS-5,3.0,Unnamed: 6,18.9
+21,QQS-10,3.0,Unnamed: 6,56.74
+23,WT,3.0,Unnamed: 6,23.36
+3,QQS-10,1.0,Unnamed: 7,20.64
+4,QQS-10,1.0,Unnamed: 7,32.1
+5,EV,1.0,Unnamed: 7,10.92
+6,WT,1.0,Unnamed: 7,8.06
+10,QQS-5,2.0,Unnamed: 7,33.19
+11,QQS-7,2.0,Unnamed: 7,28.75
+12,QQS-10,2.0,Unnamed: 7,95.17
+13,QQS-10,2.0,Unnamed: 7,56.6
+21,QQS-10,3.0,Unnamed: 7,65.14
+3,QQS-10,1.0,Unnamed: 8,22.57
+4,QQS-10,1.0,Unnamed: 8,27.53
+5,EV,1.0,Unnamed: 8,13.13
+6,WT,1.0,Unnamed: 8,8.33
+11,QQS-7,2.0,Unnamed: 8,259.99
+12,QQS-10,2.0,Unnamed: 8,86.1
+13,QQS-10,2.0,Unnamed: 8,53.58
+21,QQS-10,3.0,Unnamed: 8,45.65
+3,QQS-10,1.0,Unnamed: 9,38.51
+4,QQS-10,1.0,Unnamed: 9,27.66
+5,EV,1.0,Unnamed: 9,5.95
+12,QQS-10,2.0,Unnamed: 9,81.07
+13,QQS-10,2.0,Unnamed: 9,36.6
+21,QQS-10,3.0,Unnamed: 9,35.56
+3,QQS-10,1.0,Unnamed: 10,12.83
+5,EV,1.0,Unnamed: 10,5.75
+12,QQS-10,2.0,Unnamed: 10,107.09
+13,QQS-10,2.0,Unnamed: 10,34.95
+21,QQS-10,3.0,Unnamed: 10,14.23
+5,EV,1.0,Unnamed: 11,5.44
+12,QQS-10,2.0,Unnamed: 11,30.28
+13,QQS-10,2.0,Unnamed: 11,35.15
+21,QQS-10,3.0,Unnamed: 11,10.27
+12,QQS-10,2.0,Unnamed: 12,37.05
